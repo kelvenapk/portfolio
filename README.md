@@ -46,16 +46,6 @@ Proteção avançada de privacidade:
 - Firewall rules otimizadas
 - Proteção contra tracking
 
-## Estatísticas do GitHub
-
-<div align="center">
-  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kelvenapk&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvenapk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&hide=html,css)
-
-</div>
-
 ## Métricas de Contribuição
 
 <div align="center">
