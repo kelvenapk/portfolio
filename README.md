@@ -1,7 +1,5 @@
 # kelvenapk - Portfolio
 
-[![HTML](https://img.shields.io/badge/HTML-CSS-JS-orange)]()
-
 Portfolio profissional especializado em otimização avançada de sistemas Windows.
 
 ## Portfolio
