@@ -1,6 +1,5 @@
 # kelvenapk - Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/Live-blueviolet)](https://kelvenapk.github.io/portfolio/)
 [![HTML](https://img.shields.io/badge/HTML-CSS-JS-orange)]()
 
 Portfolio profissional especializado em otimização avançada de sistemas Windows.
